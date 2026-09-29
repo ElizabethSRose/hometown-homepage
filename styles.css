@@ -14,7 +14,7 @@ body {
 }
 
 #hero {
-    background-image: url("./images/keynsham.webp");
+    background-image: url("keynsham.webp");
     background-size: 100%;
     display: flex;
     flex-direction: column;
@@ -77,7 +77,7 @@ h3 {
 }
 
 .myself-img{
-    background-image: url(./images/myself.png);
+    background-image: url(myself.png);
     background-size: cover;
     width: 550px;
     border-radius: 10px;
@@ -85,7 +85,7 @@ h3 {
 }
 
 #myself-img:hover {
-    background-image: url(./images/Dont-know.gif)
+    background-image: url(Dont-know.gif)
 }
 
 #guide-text{
